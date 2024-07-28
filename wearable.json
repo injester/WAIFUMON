@@ -1,0 +1,29 @@
+{
+  "data": {
+    "replaces": [],
+    "hides": [],
+    "tags": [
+      "tags",
+      "here",
+      "please"
+    ],
+    "representations": [
+      {
+        "bodyShapes": [
+          "urn:decentraland:off-chain:base-avatars:BaseMale",
+          "urn:decentraland:off-chain:base-avatars:BaseFemale"
+        ],
+        "mainFile": "F_Earrings_Pearls.glb",
+        "contents": [
+          "F_Earrings_Pearls.glb"
+        ],
+        "overrideHides": [],
+        "overrideReplaces": []
+      }
+    ],
+    "category": "earring"
+  },
+  "name": "Change the name",
+  "description": "Change the desc",
+  "rarity": "mythic"
+}
