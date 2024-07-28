@@ -3,9 +3,9 @@
     "replaces": [],
     "hides": [],
     "tags": [
-      "tags",
-      "here",
-      "please"
+      "special",
+      "new",
+      "eyebrows"
     ],
     "representations": [
       {
@@ -13,17 +13,17 @@
           "urn:decentraland:off-chain:base-avatars:BaseMale",
           "urn:decentraland:off-chain:base-avatars:BaseFemale"
         ],
-        "mainFile": "F_Earrings_Pearls.glb",
+        "mainFile": "ring.glb",
         "contents": [
-          "F_Earrings_Pearls.glb"
+          "ring.glb"
         ],
         "overrideHides": [],
         "overrideReplaces": []
       }
     ],
-    "category": "earring"
+    "category": "eyewear"
   },
-  "name": "Change the name",
-  "description": "Change the desc",
+  "name": "Smart Wearable Example",
+  "description": "Smart wearable desription here.",
   "rarity": "mythic"
 }
